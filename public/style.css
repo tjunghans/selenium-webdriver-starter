@@ -1,0 +1,55 @@
+
+/* line 35 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+
+/* line 1 : /Users/tj/Projects/selenium-webdriver-starter/node_modules/stylus/lib/functions/index.styl */
+
+/* line 1 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+#content {
+  margin: 70px 10px 10px;
+}
+
+/* line 4 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+.shopping-list {
+  border: solid 1px #000;
+  box-sizing: border-box;
+  font-family: arial;
+  font-size: 32px;
+  padding: 10px;
+  width: 800px;
+}
+
+/* line 11 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+.shopping-list h2 {
+  margin: 0;
+  font-size: 32px;
+}
+
+/* line 15 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+.shopping-list input,
+.shopping-list button {
+  font-size: 24px;
+  margin: 5px;
+}
+
+/* line 20 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+.shopping-list .items {
+  margin-top: 10px;
+}
+
+/* line 23 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+.shopping-list .item-name {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 400px;
+}
+
+/* line 28 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+.shopping-list .remove {
+  cursor: pointer;
+  color: #f00;
+}
+
+/* line 32 : /Users/tj/Projects/selenium-webdriver-starter/css/list.styl */
+.shopping-list .hidden {
+  display: none;
+}
